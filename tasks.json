@@ -1,28 +1,47 @@
-[
-    {
-        "id": 1,
-        "title": "brush my teeth",
-        "command": "echo brush my teeth"
-    },
-    {
-        "id" : 2,
-        "title": "do laundry",
-        "command": "echo do laundry"
-    },
-    {
-        "id":3,
-        "title": "do dishes",
-        "command": "echo do dishes"
-    },
-
-    {
-        "id":4,
-        "title": "do homework",
-        "command": "echo do homework"
-    },
-    {
-        "id":5,
-        "title": "do chores",
-        "command": "echo do chores"
-    }
+ [
+  {
+    "id": 1,
+    "title": "brush my teeth",
+    "command": "echo brush my teeth"
+  },
+  {
+    "id": 2,
+    "title": "do laundry",
+    "command": "echo do laundry"
+  },
+  {
+    "id": 3,
+    "title": "do dishes",
+    "command": "echo do dishes"
+  },
+  {
+    "id": 4,
+    "title": "do homework",
+    "command": "echo do homework"
+  },
+  {
+    "id": 5,
+    "title": "do chores",
+    "command": "echo do chores"
+  },
+  {
+    "title": "Buy groceries",
+    "id": 6,
+    "completed": false
+  },
+  {
+    "title": "Buy milk",
+    "id": 7,
+    "completed": false
+  },
+  {
+    "title": "Buy milk",
+    "id": 8,
+    "completed": false
+  },
+  {
+    "title": "Buy milk",
+    "id": 9,
+    "completed": false
+  }
 ]

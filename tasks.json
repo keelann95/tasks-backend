@@ -1,4 +1,4 @@
- [
+[
   {
     "id": 1,
     "title": "brush my teeth",
@@ -37,7 +37,8 @@
   {
     "title": "Buy milk",
     "id": 8,
-    "completed": false
+    "completed": true,
+    "updated_at": "2025-06-20T16:45:58.962Z"
   },
   {
     "title": "Buy milk",
